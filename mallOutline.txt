@@ -1,0 +1,65 @@
+MALL
+    Ground Floor
+        Bata
+            Shoes
+            Sandals
+            Slippers
+        Life Style
+            Kids Wear
+            Male Wear
+            Female Wear
+        Woodland
+            Shoes
+        Adidas
+            Shoes
+            Sports Wear
+            Bags
+            Slippers
+    First Floor
+        Van Heusen
+            Kids Wear
+            Male Wear
+            Female Wear
+        Casio
+            Watches
+        Lee Cooper
+            Kids Wear
+            Male Wear
+            Female Wear
+        Malabar
+            Silver
+            Gold
+            Diamond
+            Platinum
+    Second Floor
+        U.S.Polo
+            Kids Wear
+            Male Wear
+            Female Wear
+        Om Book Shop
+            Novels
+            Short Stories
+            Stationary
+        Tanishq
+            Silver
+            Gold
+            Diamond
+            Platinum
+        Titan
+            Kids Watches
+            Men's Watches
+            Women's Watches
+    Third Floor
+        Allen Solly
+            Kids Wear
+            Male Wear
+            Female Wear
+        Da Milano
+            Art Pieces
+        Nike
+            Shoes
+            Sports Wear
+            Bags
+            Slippers
+        Kazo
+            Sweets
